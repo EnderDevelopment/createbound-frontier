@@ -1,0 +1,20 @@
+# Forge 1.20.1 Cooperative Server Pack
+# Download exact Forge 1.20.1-compatible files from the project's official page.
+# status: include = required; blocked = impossible with the selected loader/version.
+# type,project,dependency_or_note,status
+tech,Create,Forge 1.20.1 build,include
+tech,Create Steam 'n' Rails,Create; Forge 1.20.1 build,include
+tech,Create Crafts & Additions,Create; Forge 1.20.1 build,include
+town,MineColonies,Structurize; compatible Forge 1.20.1 builds,include
+town,Structurize,MineColonies-compatible Forge 1.20.1 build,include
+food,Farmer's Delight,Forge 1.20.1 build,include
+decoration,Macaw's Furniture,Forge 1.20.1 build,include
+mobs,Alex's Mobs,Citadel; Forge 1.20.1 builds,include
+mobs,Citadel,Alex's Mobs-compatible Forge 1.20.1 build,include
+mobs,Naturalist,Forge 1.20.1 build,include
+world,Towns and Towers,Forge 1.20.1 build,include
+world,When Dungeons Arise,Forge 1.20.1 build,include
+dimension,The Twilight Forest,Forge 1.20.1 build,include
+movement,Paraglider,Curios API; Forge 1.20.1 builds,include
+library,Curios API,Paraglider-compatible Forge 1.20.1 build,include
+combat,Bosses of Mass Destruction,Fabric/Quilt only; no Forge 1.20.1 build,blocked

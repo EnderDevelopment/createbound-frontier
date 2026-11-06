@@ -1,0 +1,1 @@
+Place downloaded Forge 1.20.1-compatible mod JARs in this directory's ../mods directory after running the Forge server installer. See the root README.md and mods.csv. Bosses of Mass Destruction is not included because it is not a Forge mod.
